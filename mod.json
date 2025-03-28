@@ -1,0 +1,23 @@
+{
+	"geode": "4.1.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074"
+	},
+	"id": "ndrnmnk.gdps_archive",
+	"name": "GDPS Archive",
+	"version": "v1.0.1",
+	"developer": "ndrnmnk",
+	"description": "A mod that makes archived levels from GDPS Editor 2.2 playable",
+	"dependencies": [
+		{"id": "hjfod.gmd-api", "importance": "required", "version": ">=1.2.0"},
+		{"id": "geode.node-ids", "importance": "required", "version": ">=1.12.0"}
+	],
+	"resources": {
+		"sprites": [
+			"resources/GDPSLogo.png"
+		]
+	}
+	
+}
