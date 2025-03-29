@@ -18,9 +18,7 @@ Drag the downloaded file in the opened folder, reload GD and play!
 
 
 
-Todo:
+
+### My todo list
 - rewrite everything (add fancy search ui)
 - add automatic level fixing (some blocks are broken, most platformer levels are unplayable)
-
-
-
