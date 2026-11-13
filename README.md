@@ -1,5 +1,7 @@
 # GDPSArchive
 
+# EDIT: this project is dead and won't be updated. I host a GDPS with level archive now
+
 <img src="logo.png" width="150" alt="the mod's logo" />
 
 A Geometry Dash mod that allows to play levels from GDPS Editor 2.2 (private server that was shut down in april 2023)
